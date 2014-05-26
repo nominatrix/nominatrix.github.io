@@ -16,60 +16,7 @@
   <link rel="stylesheet" href="/startup/ui-kit/ui-kit-header/css/style.css" />
   <link rel="stylesheet" href="/startup/ui-kit/ui-kit-content/css/style.css" />
   <link rel="stylesheet" href="/startup/ui-kit/ui-kit-footer/css/style.css" />
-
-  <style>
-    @media (min-width: 992px) {
-      .container {
-        width: 900px;
-      }
-    }
-
-    @media (max-width: 420px) {
-      .content-7 h4,
-      .content-7 .img {
-        text-align: center;
-      }
-
-      .content-7 .img img {
-        max-width: 30%;
-      }
-    }
-
-    .header-10 {
-      background-color: #222;
-    }
-
-    .header-10-sub {
-      height: 600px;
-    }
-
-    .header-10-sub .background {
-      background-image: url(/assets/images/cc-manuscript.jpg);
-      background-attachment: fixed;
-      opacity: 0.34;
-    }
-
-    .content-7 h3,
-    .content-7 h4 {
-      text-transform: capitalize;
-    }
-
-    .content-7 .delimiter {
-      margin-top: 100px;
-    }
-
-    .btn-schedule {
-      background:none;
-      border:2px solid #3498DB;
-      color: #3498DB;
-    }
-
-    .services .background {
-      background-image: url(/assets/images/cc-notebook.jpg);
-      background-attachment: fixed;
-      opacity: 0.125;
-    }
-  </style>
+  <link rel="stylesheet" href="/assets/stylesheets/site.css" />
 </head>
 <body data-spy="scroll" data-target=".navbar">
 
@@ -228,23 +175,6 @@
 <script src="/startup/common-files/js/jquery.svganim.js"></script>
 <script src="/startup/common-files/js/jquery.parallax.min.js"></script>
 <script src="/startup/common-files/js/startup-kit.js"></script>
-
-<script>
-  jQuery(function($){
-    $('.background').parallax();
-
-    $('.nav a').click(function(e){
-      var $el = $(this.hash);
-      if($el.length) {
-        e.preventDefault();
-        $.scrollTo($el, {
-          axis : 'y',
-          duration : 500
-        });
-      }
-    });
-  });
-</script>
-
+<script src="/assets/javascripts/site.js"></script>
 </body>
 </html>

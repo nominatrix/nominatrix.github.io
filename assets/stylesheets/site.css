@@ -1,0 +1,51 @@
+@media (min-width: 992px) {
+  .container {
+    width: 900px;
+  }
+}
+
+@media (max-width: 420px) {
+  .content-7 h4,
+  .content-7 .img {
+    text-align: center;
+  }
+
+  .content-7 .img img {
+    max-width: 30%;
+  }
+}
+
+.header-10 {
+  background-color: #222;
+}
+
+.header-10-sub {
+  height: 600px;
+}
+
+.header-10-sub .background {
+  background-image: url(/assets/images/cc-manuscript.jpg);
+  background-attachment: fixed;
+  opacity: 0.34;
+}
+
+.content-7 h3,
+.content-7 h4 {
+  text-transform: capitalize;
+}
+
+.content-7 .delimiter {
+  margin-top: 100px;
+}
+
+.btn-schedule {
+  background:none;
+  border:2px solid #3498DB;
+  color: #3498DB;
+}
+
+.services .background {
+  background-image: url(/assets/images/cc-notebook.jpg);
+  background-attachment: fixed;
+  opacity: 0.125;
+}
