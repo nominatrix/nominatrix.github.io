@@ -20,7 +20,7 @@
 }
 
 .header-10-sub {
-  height: 600px;
+  height: 670px;
 }
 
 .header-10-sub .background {
@@ -48,4 +48,12 @@
   background-image: url(/assets/images/cc-notebook.jpg);
   background-attachment: fixed;
   opacity: 0.125;
+}
+
+.header-10 .navbar .nav > li > a:hover,
+.header-10 .navbar .nav > li.active > a:hover,
+.header-10 .navbar .nav > li.active > a:focus,
+.header-10 .navbar .nav > li.active > a.active,
+.header-10 .navbar .nav > li.active > a {
+  color: #2ECC71;
 }
