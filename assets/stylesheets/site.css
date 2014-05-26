@@ -1,3 +1,7 @@
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
 @media (min-width: 992px) {
   .container {
     width: 900px;
@@ -21,6 +25,16 @@
 
 .header-10-sub {
   height: 670px;
+}
+
+.header-10-sub .hero-unit h1,
+.header-10-sub .hero-unit p,
+.content-7 h3,
+.content-7 h4,
+.btn-schedule,
+.modal h4,
+.modal-footer button {
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .header-10-sub .background {
