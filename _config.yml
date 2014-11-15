@@ -1,4 +1,11 @@
 defaults:
   -
+    scope:
+      type: pages
     values:
       layout: default
+  -
+    scope:
+      type: posts
+    values:
+      layout: post
