@@ -1,0 +1,13 @@
+paginate_path: blog/page:num
+paginate: 5
+defaults:
+  -
+    scope:
+      type: pages
+    values:
+      layout: default
+  -
+    scope:
+      type: posts
+    values:
+      layout: post
