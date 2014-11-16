@@ -26,12 +26,9 @@ Unfortunately, there’s nothing you can really do about this situation with exp
 <p>Waiting it out takes an average of 95 days, during which you’ll be unable to do anything with the domain. If you have a lot of marketing material with that domain on it, the waiting period can become a huge problem. <br><br>
 
 
- <br><br></p>
-
-
 ##Here’s what I learned
 
-As the saying goes, an ounce of prevention is worth a pound of cure. The best way to avoid this really unfortunate situation is to make sure your domains don’t expire.
+<p>As the saying goes, an ounce of prevention is worth a pound of cure. The best way to avoid this really unfortunate situation is to make sure your domains don’t expire.<br><br>
 
 1. Make sure your registrar has your current information. In my particular case, we had recently moved, so our email address and primary billing address were different. The registrar had no way to alert us to the expiry.<br><br>
 
