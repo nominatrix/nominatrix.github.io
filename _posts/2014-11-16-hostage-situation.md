@@ -1,7 +1,7 @@
 ##Don’t Let Your Blog’s Domain Expire
 
 
-<br><br><p><a href="https://imgflip.com/i/e7ytn"><img src="https://i.imgflip.com/e7ytn.jpg" title="made at imgflip.com"/></a></p><br><br>
+<br><br><p><center><a href="https://imgflip.com/i/e7ytn"><img src="https://i.imgflip.com/e7ytn.jpg" title="made at imgflip.com"/></a></c></p><br><br>
 
 
 
