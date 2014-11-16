@@ -1,6 +1,6 @@
 ##Hostage Situation: Don’t Let Your Blog’s Domain Expire
 
-<c><a href="https://imgflip.com/i/e7ytn"><img src="https://i.imgflip.com/e7ytn.jpg" title="made at imgflip.com"/></a></c>
+<center><a href="https://imgflip.com/i/e7ytn"><img src="https://i.imgflip.com/e7ytn.jpg" title="made at imgflip.com"/></a></c>
 
 I’m going to get my fork ready to eat some humble pie, because I recently made one of the worst mistakes concerning a domain name: I let it expire. Nothing makes things feel like amateur hour like realizing your site is offline. “That’s okay,” I said. “I’ll just renew it, get it back up, and be on my way.”
 
