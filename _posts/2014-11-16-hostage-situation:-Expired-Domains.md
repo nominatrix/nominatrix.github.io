@@ -20,13 +20,13 @@ Does that sound a little ridiculous? Yes? Okay, it’s not just me then. <br><br
 
 Unfortunately, there’s nothing you can really do about this situation with expired domains (until someone successfully sues to end the practice). You have two choices: Pay up, or...</p>
 
-###Wait It Out
+##Wait It Out
 
 
 <p>Waiting it out takes an average of 95 days, during which you’ll be unable to do anything with the domain. If you have a lot of marketing material with that domain on it, the waiting period can become a huge problem.</p>
 
 
-###Here’s what I learned
+##Here’s what I learned
 
 <p>As the saying goes, an ounce of prevention is worth a pound of cure. The best way to avoid this really unfortunate situation is to make sure your domains don’t expire.<br><br>
 
