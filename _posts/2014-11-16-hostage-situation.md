@@ -1,7 +1,7 @@
 ##Don’t Let Your Blog’s Domain Expire
 
 
-<p><a href="https://imgflip.com/i/e7ytn"><img src="https://i.imgflip.com/e7ytn.jpg" title="made at imgflip.com"/></a></p>
+<br><br><p><a href="https://imgflip.com/i/e7ytn"><img src="https://i.imgflip.com/e7ytn.jpg" title="made at imgflip.com"/></a></p><br><br>
 
 
 
@@ -29,7 +29,7 @@ Waiting it out takes an average of 95 days, during which you’ll be unable to d
 As the saying goes, an ounce of prevention is worth a pound of cure. The best way to avoid this really unfortunate situation is to make sure your domains don’t expire. <br><br>
 
 
-##Here’s what I learned<br><br>
+##Here’s what I learned
 
 
 1. Make sure your registrar has your current information. In my particular case, we had recently moved, so our email address and primary billing address were different. The registrar had no way to alert us to the expiry.<br><br>
