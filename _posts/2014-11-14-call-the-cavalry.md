@@ -3,7 +3,7 @@
 ## When Is It Time To Call In The Cavalry?
 
 <a href="http://tinypic.com?ref=2edqv14" target="_blank"><img src="http://i59.tinypic.com/2edqv14.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-(Photo Credit: soldiersmediacenter on Flickr)
+<br>(Photo Credit: soldiersmediacenter on Flickr)
 
 Maintaining a blog is like any other healthy routine: easy to do for a week, harder to keep up on a regular basis. While slacking on the floss can land you in the dentist chair, slacking on your blog efforts can land you somewhere equally concerning: page seven of Google search results. It’s a place to which few people travel, and if they’re not making the trip, they will never become potential customers and clients.
 To maintain the health of your online marketing efforts, blogging regularly is a must. If you’re hitting a slump, it could be time to outsource your blog writing.
