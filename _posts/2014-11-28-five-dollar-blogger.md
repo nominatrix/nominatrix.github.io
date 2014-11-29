@@ -2,8 +2,6 @@
 published: true
 ---
 
-
-
 #Freelance Blogging Services: The True Cost Of A “$5 Blogger”
 
 The content industry has (for quite a while now) been going through a bit of a market adjustment, where the availability of an inexpensive writing force has driven down the perceived value for business writing services. Writers are seemingly a dime a dozen, and in turn, articles and marketing pieces become a dime a dozen. They <em>can</em> be, as has been amply demonstrated. They shouldn’t be. 
@@ -28,9 +26,12 @@ Then we come to the “five dollar blogger.” A penny per word. “Wow! Okay! T
 
 What you get back later that week is one of the following:
 
-1. A grammatical horror story – Not spell-checked, strange syntax, just plain not great. 
+1. A grammatical horrorshow – Not spell-checked, strange syntax, just plain not great. 
+
 2. Nonsense – The content doesn’t make sense on any level. “You are guaranteed to have make great smiling when you see our majestic baby food.” 
+
 3. Keyword stuffing – They pick a keyword, but misspell it, then use it fifteen times. Google does not smile on this at all.
+
 4.Nothing. They totally blow you off. At least you haven’t paid them for it. 
 
 ##Now What? 
