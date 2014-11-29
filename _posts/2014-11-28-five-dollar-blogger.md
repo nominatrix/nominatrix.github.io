@@ -1,6 +1,8 @@
 ---
-published: false
+published: true
 ---
+
+
 
 #Freelance Blogging Services: The True Cost Of A “$5 Blogger”
 
@@ -61,6 +63,4 @@ That same $400 you just spent in time and cash would get you:
 * A pitch of fresh ideas for next month and take a few minutes to discuss your business so they can promo special events you have coming up. 
 * Promotion-ready, plug-and-play status updates to promo new content on your social media feeds.
 
-Still want that five-dollar blogger? If not, it’s time for a better blog marketing plan. 
-
-
+Still want that five-dollar blogger? If not, it’s time for a better blog marketing plan.
