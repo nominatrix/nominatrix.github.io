@@ -1,7 +1,9 @@
+---
+published: true
+comments: true
+---
 
-<br><br><center><a href="https://imgflip.com/i/e7ytn"><img src="https://i.imgflip.com/e7ytn.jpg" title="made at imgflip.com"/></a><br><br>
-
-
+<br><br><center><a href="https://imgflip.com/i/e7ytn"><img src="https://i.imgflip.com/e7ytn.jpg" title="made at imgflip.com"/></a></center><br><br>
 
 <p>I’m going to get my fork ready to eat some humble pie, because I recently made one of the worst mistakes concerning a domain name: I let it expire. Nothing makes things feel like amateur hour like realizing your site is offline. “That’s okay,” I said. “I’ll just renew it, get things back up and running, and be on my way.”<br><br>
 
@@ -39,4 +41,4 @@ Unfortunately, there’s nothing you can really do about this situation with exp
 3. Set a reminder: Tell Siri to ping you, put it in your Google calendar, or write it on your whiteboard. Whatever you have to do. Be your own failsafe. <br><br>
 
 
-Take these precautions, and you’ll avoid ponying up ransom money for expired domain names. 
+Take these precautions, and you’ll avoid ponying up ransom money for expired domain names.

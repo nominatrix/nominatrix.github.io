@@ -6,11 +6,15 @@ layout: default
   <div>
     <div class="container">
       <div class="row">
+
         <div>
-
           {{ content }}
-
         </div>
+
+        {{ if page.comments }}
+          <div id="disqus_thread"></div>
+        {{ endif }}
+
       </div><!-- .row -->
     </div><!-- .container -->
   </div>

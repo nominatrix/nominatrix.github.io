@@ -1,5 +1,8 @@
 ---
+published: true
+comments: true
 ---
+
 ## When Is It Time To Call In The Cavalry?
 
 <a href="http://tinypic.com?ref=2edqv14" target="_blank"><img src="http://i59.tinypic.com/2edqv14.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
