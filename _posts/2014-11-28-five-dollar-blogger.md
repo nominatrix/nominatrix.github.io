@@ -3,9 +3,9 @@ published: true
 comments: true
 ---
 
-<center><a href="http://tinypic.com?ref=2n0o9di" target="_blank"><img src="http://i57.tinypic.com/2n0o9di.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center>
+## Freelance Blogging Services: The True Cost Of A “$5 Blogger”
 
-#Freelance Blogging Services: The True Cost Of A “$5 Blogger”
+<center><a href="http://tinypic.com?ref=2n0o9di" target="_blank"><img src="http://i57.tinypic.com/2n0o9di.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center>
 
 The content industry has (for quite a while now) been going through a bit of a market adjustment, where the availability of an inexpensive writing force has driven down the perceived value for business writing services. Writers are seemingly a dime a dozen, and in turn, articles and marketing pieces become a dime a dozen. They <em>can</em> be, as has been amply demonstrated. They shouldn’t be.
 
@@ -13,7 +13,7 @@ But you might say: Why should you pay $50 or $100 per post, when you can get som
 
 I run up against this sentiment all the time; it wasn’t until I started editing articles and content written by a “five dollar blogger” that I could full explain the monetary value in hiring a trusted, native speaking professional who is knowledgeable in your niche. The lifecycle of a cheap blog article goes something like this:
 
-##Finding A Writer
+## Finding A Writer
 
 You decide it’s time for freelance blogging services for your blog. You know you’re not doing the work: you don’t have time, or ideas. So you start looking for a blogger. A craigslist ad finds you approximately 100 candidates. “Holy moly,” you say. “How do I wade through all these applicants?” So you weed out the ones who are obviously not savvy on your subject, have really bad grammar in their pitches, or commit some awful pitch sin (they call you by the wrong name, wrong company, don’t add a portfolio or a resume.) Okay, now you whittle it down, slowly but surely, to maybe five candidates. You’ve just spent an hour on this process— if not more.
 
@@ -37,7 +37,7 @@ What you get back later that week is one of the following:
 
 4.Nothing. They totally blow you off. At least you haven’t paid them for it.
 
-##Now What?
+## Now What?
 
 Assuming they came through on the deadline, you have twenty articles that are total nonsense, or just not great. You’ve just spent an hour or more reading them, and you’re completely frustrated. What do you do?
 
