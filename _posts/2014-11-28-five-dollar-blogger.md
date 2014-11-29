@@ -2,7 +2,7 @@
 published: true
 ---
 
-<a href="http://tinypic.com?ref=2n0o9di" target="_blank"><img src="http://i57.tinypic.com/2n0o9di.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<center><a href="http://tinypic.com?ref=2n0o9di" target="_blank"><img src="http://i57.tinypic.com/2n0o9di.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center>
 
 #Freelance Blogging Services: The True Cost Of A “$5 Blogger”
 
