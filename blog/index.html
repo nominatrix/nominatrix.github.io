@@ -19,6 +19,8 @@ title: Blog
   </div><!-- .content -->
 {% endfor %}
 
+{% include disqus_count.html %}
+
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
@@ -34,5 +36,3 @@ title: Blog
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% endif %}
 </div><!-- .pagination -->
-
-{% include disqus_count.html %}

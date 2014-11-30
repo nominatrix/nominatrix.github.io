@@ -11,10 +11,10 @@ layout: default
           {{ content }}
         </div>
 
-        {{ if page.comments }}
+        {% if page.comments %}
           <div id="disqus_thread"></div>
           {% include disqus_embed.html %}
-        {{ endif }}
+        {% endif %}
 
       </div><!-- .row -->
     </div><!-- .container -->
