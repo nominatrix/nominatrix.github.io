@@ -13,3 +13,5 @@ defaults:
       layout: post
 sass:
   style: :compressed
+gems:
+  - jekyll-sitemap
