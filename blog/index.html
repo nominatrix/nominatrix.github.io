@@ -10,7 +10,7 @@ title: Blog
     </span>
   </p><!-- .author -->
   <h2>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}#disqus_thread">{{ post.title }}</a>
   </h2>
   <div class="content">
     {{ post.content }}
@@ -32,3 +32,5 @@ title: Blog
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% endif %}
 </div><!-- .pagination -->
+
+{% include disqus_count.html %}
