@@ -1,8 +1,8 @@
 ##Are You Resolving To Work Less In 2015?
+<br>
 
 
-
-In pretty fond of a few perennial New Year’s resolutions. Lose some pounds. Sleep more. Get back to running. Since having kids, resolving to go on more dates is a pretty popular notion in our house. We are very fortunate to have awesome family members that give us time off.
+I'm pretty fond of a few perennial New Year’s resolutions. Lose some pounds. Sleep more. Get back to running. Since having kids, resolving to go on more dates is a pretty popular notion in our house. We are very fortunate to have awesome family members that give us time off.
 
 Speaking of time off… many people resolve to “work less” in the upcoming year, or conversely, “play more” with trips and leisure activities. While that's a [popular idea](http://www.usa.gov/Citizen/Topics/New-Years-Resolutions.shtml) and a worthy resolution, this nebulous goal never addresses the heart of the issue: most of us have too much on our plate! **It's impossible to work less without finding better ways to get things done.** One way is to find trustworthy professionals to take care of the time-draining items on your list— like writing! 
 
