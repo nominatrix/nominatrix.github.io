@@ -1,7 +1,6 @@
 **Are You Resolving To Work Less In 2015?
 **
 
-![Courtes of Shkumbin Saneja on Flickr](/https://flic.kr/p/59kraV)
 
 In pretty fond of a few perennial New Year’s resolutions. Lose some pounds. Sleep more. Get back to running. Since having kids, resolving to go on more dates is a pretty popular notion in our house. We are very fortunate to have awesome family members that give us time off.
 
