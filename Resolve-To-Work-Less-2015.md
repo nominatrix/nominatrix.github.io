@@ -16,5 +16,5 @@ What you do with that time is your own. You can reinvest it in the business… o
 
 This will probably be my last post for the year before the ball drops, so I’ll wish you all a happy, prosperous 2015! 
 
-**What is your biggest time suck these days? AND, the bonus question: If you stick to your resolution of working less this year, what are you going to do for fun in 2015?
-**
+**What is your biggest time suck these days? AND, the bonus question: If you stick to your resolution of working less this year, what are you going to do for fun in 2015?**
+
