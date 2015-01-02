@@ -4,10 +4,10 @@ comments: true
 ---
 
 
-##Realtors: Kick Your Desk To The Curb
+##Realtors: Kick Your Desk To The Curb<br><br>
 
 
-<center><a href="http://tinypic.com?ref=25t7wox" target="_blank"><img src="http://i61.tinypic.com/25t7wox.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center>
+<center><a href="http://tinypic.com?ref=25t7wox" target="_blank"><img src="http://i61.tinypic.com/25t7wox.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center><br>
 
 Once upon a time in an MLS far, far away, I was a residential Realtor. I loved the job, worked with a lot of great people. I learned _plenty_ about running a business-- skills that serve me to this day. One aspect I wasn't prepared for at the outset was the amount of time needed for marketing. Many a night was spent in the office after hours, stuffing and stamping direct mail pieces as the tri-fold machine whirred along furiously beside me. I wrote all my own material, as most Realtors do, so I know it can eat up a chunk of time.
 
