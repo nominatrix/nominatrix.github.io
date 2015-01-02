@@ -3,14 +3,14 @@ Once upon a time in an MLS far, far away, I was a residential Realtor. I loved t
 Real estate sales has evolved since I was an agent, but one thing that hasn't changed is the amount of marketing involved in keeping a steady pipeline. Property descriptions, direct mail pieces, marketing packages and bios all take time to generate. Add to that the real need for a personal site and a consistent blog, and it makes for a lot of time behind the desk. Many Realtors would rather spend their hours where the money is-- in the car with a client or at the closing table. Here's where a real estate copywriter comes in. 
 
 
-Like  clients, Realtors have a "need, want, would be nice" list for your 2015 marketing efforts. I can help with:
+Like  clients, Realtors have a "need, want, would be nice" list for their marketing. There are quite a few items a real estate copywriter can develop
 
-Property Descriptions – Tell the story of the home behind the listing photo. With quick turnaround, a flawless and fabulous description can be on MLS within 48 hours. 
+Property Descriptions – Is there anything more time consuming than trying to come up with yet another synonym that the dreaded "cozy." A writer can develop a fresh description for your new listing with just a quick phone call and a look at the listing pictures. 
 
-Blogging – I think of blogging as the laundry of your marketing plan. Sure, consistent effort keeps the system running smoothly--but with so much to do, the time between posts can pile up. Enjoy consistent, timely articles to keep your sphere informed and your site traffic growing.
+Blogging – Blogging is the laundry of your marketing plan. Sure, consistent effort keeps the system running smoothly--but with so much to do, the time between posts can pile up. A writer can keep the ideas and the posts coming, and keep your site traffic climbing.
 
-Social Media – Coordinating your message across social media platforms reaches more buyers and sellers. Your prospective clients are on social media. Make sure they see you there, too.
+Social Media – Yes, Realtors, you really _do_ want to be on Twitter. Your clients are online, and you should be, too. Plug and play social media updates are a great resource for your online marketing.
  
-Agent Biography – You’ve had a very successful 2014. Now is the best time to ensure your professional bio reflects the highlights of your career over the past 12 months.
+Agent Biography – Does your bio include your most recent successes and milestones? Writing about yourself can be a bit awkward. A real estate copywriter can take your achievements and turn them into a great sales tool with just a quick interview. 
  
-Custom Marketing Collateral – Tailor-made newsletters, sales trend assessments, and community profiles. These concise, informative pieces add value to market analysis packages, listing packets, direct mail campaigns, and online resources.
+Custom Marketing Collateral – Custom made pieces in marketing packages, mail campaigns, and online showcase you as an authority in your market. They're a great way to add value to your marketing efforts without spending hours trying to dream up a topic and do the research. 
