@@ -7,7 +7,9 @@ comments: true
 ##Realtors: Kick Your Desk To The Curb<br><br>
 
 
-<center><a href="http://tinypic.com?ref=25t7wox" target="_blank"><img src="http://i61.tinypic.com/25t7wox.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center><br>
+<center><a href="http://tinypic.com?ref=25t7wox" target="_blank"><img src="http://i61.tinypic.com/25t7wox.jpg" border="0" alt="Image and video hosting by TinyPic"></a><Br>
+<a href="https://www.flickr.com/photos/drewcoffman/4815205632/in/photolist-8kvbSL-6v7u9r-dNfJmV-dhBwvj-uwiZT-bbpCVP-8sTBte-4sLmMw-dwXjGV-4P9kgS-dhBKVo-4hBu4N-dhBKPw-7Lqvbq-68JDJb-cmZYC1-dhByDP-dhBhnZ-4hycTx-8XBY9H-cXaXY-3sv7z-5qLW6Z-uquyK-fg4MTo-icUzRL-dhBCth-p8qLvp-6ALgke-8qQjrm-9dJ3M3-6i5Uin-4itY68-dfBHK7-5By2zq-8C14Qr-dkd1jQ-bkAPCY-iiftRP-ALauH-9X5niu-dhBFfh-nvafDc-6zHzXB-peMD4r-3RvkeN-f7UKY8-5NiQkU-9zjvne-dhBCcs">Courtesy of Drew Coffman in Flickr</a> </center><br>
+
 
 Once upon a time in an MLS far, far away, I was a residential Realtor. I loved the job, worked with a lot of great people. I learned _plenty_ about running a business-- skills that serve me to this day. One aspect I wasn't prepared for at the outset was the amount of time needed for marketing. Many a night was spent in the office after hours, stuffing and stamping direct mail pieces as the tri-fold machine whirred along furiously beside me. I wrote all my own material, as most Realtors do, so I know it can eat up a chunk of time.
 
