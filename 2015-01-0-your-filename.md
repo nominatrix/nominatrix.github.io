@@ -1,6 +1,9 @@
-Once upon a time in an MLS far, far away, I was a residential Realtor. I loved the job, worked with a lot of great people and learned a lot about running a business. One aspect I wasn't prepared for was the amount of time devoted to marketing. I spent many a night in the office after hours, stuffing and stamping direct mail pieces as the tri-fold machine whirred furiously beside me. 
+Once upon a time in an MLS far, far away, I was a residential Realtor. I loved the job, worked with a lot of great people and learned a lot about running a business. One aspect I wasn't prepared for was the amount of time devoted to marketing. I spent many a night in the office after hours, stuffing and stamping direct mail pieces as the tri-fold machine whirred along furiously beside me. 
 
-Much like your clients, I bet you have a need, want, would be nice list for your 2015 marketing efforts. I can help with:
+Real estate sales has evolved since I was an agent, but one thing that hasn't changed is the amount of marketing involved in keeping a steady pipeline. Property descriptions, direct mail pieces, marketing packages and bios all take time to generate. Add to that the real need for a personal site and a consistent blog, and it makes for a lot of time behind the desk. Many Realtors would rather spend their hours where the money is-- in the car with a client or at the closing table. Here's where a real estate copywriter comes in. 
+
+
+Like  clients, Realtors have a "need, want, would be nice" list for your 2015 marketing efforts. I can help with:
 
 Property Descriptions – Tell the story of the home behind the listing photo. With quick turnaround, a flawless and fabulous description can be on MLS within 48 hours. 
 
