@@ -1,3 +1,7 @@
+---
+published: true
+comments: true
+---
 
 <center><a href="http://tinypic.com?ref=25t7wox" target="_blank"><img src="http://i61.tinypic.com/25t7wox.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center>
 
