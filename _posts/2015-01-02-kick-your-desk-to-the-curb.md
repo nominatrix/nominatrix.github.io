@@ -1,4 +1,6 @@
 
+<a href="http://tinypic.com?ref=25t7wox" target="_blank"><img src="http://i61.tinypic.com/25t7wox.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
 Once upon a time in an MLS far, far away, I was a residential Realtor. I loved the job, worked with a lot of great people. I learned _plenty_ about running a business-- skills that serve me to this day. One aspect I wasn't prepared for at the outset was the amount of time needed for marketing. Many a night was spent in the office after hours, stuffing and stamping direct mail pieces as the tri-fold machine whirred along furiously beside me. I wrote all my own material, as most Realtors do, so I know it can eat up a chunk of time.
 
 Real estate marketing has evolved a bit since I was an agent, and the amount of time involved in keeping a steady pipeline has only increased. Property descriptions, direct mail pieces, marketing packages, and bios all take time to generate. Add to that the real need for a personal site and a consistent blog, and that makes for a lot of hours slinging adjectives behind the desk. Many Realtors would rather spend their working hours where the money is-- in the car with a client or at the closing table. This is where a great real estate copywriter comes in. 
