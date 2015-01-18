@@ -87,3 +87,8 @@ html {
 .header-10 .navbar .nav > li.active > a {
   color: #B9121B;
 }
+
+#page-about blockquote {
+  p { font-size: 14px; font-style: italic; }
+  cite { font-size: 12px; }
+}
