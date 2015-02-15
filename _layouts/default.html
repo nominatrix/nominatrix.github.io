@@ -4,92 +4,36 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <meta name="google-site-verification" content="pTvBXt7sf82hBiD4gPHT-LpW7nkT9zCNQ8CuDtDlR9I" />
   <meta name="p:domain_verify" content="b0f5a0a661e7b015d4cf20bb56e92ee2" />
 
   <title>{{ page.title }}</title>
 
   <!-- styles -->
-  <link rel="stylesheet" href="/startup/flat-ui/bootstrap/css/bootstrap.css" />
-  <link rel="stylesheet" href="/startup/flat-ui/css/flat-ui.css" />
-  <link rel="stylesheet" href="/startup/common-files/css/icon-font.css" />
-  <link rel="stylesheet" href="/startup/common-files/css/animations.css" />
-  <link rel="stylesheet" href="/startup/ui-kit/ui-kit-header/css/style.css" />
-  <link rel="stylesheet" href="/startup/ui-kit/ui-kit-content/css/style.css" />
-  <link rel="stylesheet" href="/startup/ui-kit/ui-kit-footer/css/style.css" />
   <link rel="stylesheet" href="/assets/stylesheets/site.css" />
 
   <script>
     var disqus_shortname = 'belyndacianci';
   </script>
 </head>
-<body data-spy="scroll" data-target=".navbar" data-offset="95">
+<body>
 
-<!-- modal -->
-<div class="modal fade" id="modal-contact" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
+{% include contact_form.html %}
 
-      {% include contact_form.html %}
+<ahref="/">Belynda Cianci</a>
 
-    </div>
-  </div>
-</div>
-
-<!-- header -->
-<header class="header-10" data-spy="affix">
-  <div class="container">
-    <div class="row">
-      <div class="navbar col-sm-12" role="navigation">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle"></button>
-          <a class="brand" href="/#page-top">Belynda Cianci</a>
-        </div>
-        <div class="collapse navbar-collapse pull-right">
-          <ul class="nav pull-left">
-            <li><a href="/clips">Clips</a></li>
-            <li><a href="/blog">Blog</a></li>
-            <li><a href="/#page-about">About</a></li>
-            <li><a href="/#page-services">Services</a></li>
-            <li><a data-toggle="modal" href="#modal-contact">Schedule a chat</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
+<ul>
+  <li><a href="/clips">Clips</a></li>
+  <li><a href="/blog">Blog</a></li>
+  <li><a href="/#page-about">About</a></li>
+  <li><a href="/#page-services">Services</a></li>
+  <li><a href="#">Schedule a chat</a></li>
+</ul>
 
 {{ content }}
 
-<!-- footer -->
-<footer class="footer-2">
-  <div class="container">
-    <div class="social-btns pull-right">
-      <!-- <a href="#">
-        <div class="fui-twitter"></div>
-        <div class="fui-twitter"></div>
-      </a> -->
-    </div>
-    <div class="additional-links pull-left">
-      &copy; {{ site.time | date: '%Y' }} Belynda Cianci
-    </div>
-  </div>
-</footer>
+&copy; {{ site.time | date: '%Y' }} Belynda Cianci
 
-<!-- scripts -->
-<script src="/startup/common-files/js/jquery-1.10.2.min.js"></script>
-<script src="/startup/flat-ui/js/bootstrap.min.js"></script>
-<script src="/startup/common-files/js/jquery.scrollTo-1.4.3.1-min.js"></script>
-<script src="/startup/common-files/js/modernizr.custom.js"></script>
-<script src="/startup/common-files/js/page-transitions.js"></script>
-<script src="/startup/common-files/js/easing.min.js"></script>
-<script src="/startup/common-files/js/jquery.svg.js"></script>
-<script src="/startup/common-files/js/jquery.svganim.js"></script>
-<script src="/startup/common-files/js/jquery.parallax.min.js"></script>
-<script src="/startup/common-files/js/startup-kit.js"></script>
 <script src="/assets/javascripts/site.js"></script>
 
 </body>
