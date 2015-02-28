@@ -3,36 +3,53 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="pTvBXt7sf82hBiD4gPHT-LpW7nkT9zCNQ8CuDtDlR9I" />
   <meta name="p:domain_verify" content="b0f5a0a661e7b015d4cf20bb56e92ee2" />
 
   <title>{{ page.title }}</title>
 
   <!-- styles -->
-  <link rel="stylesheet" href="/assets/stylesheets/site.css" />
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
+  <!--<![endif]-->
+  <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="/assets/stylesheets/marketing-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="/assets/stylesheets/marketing.css">
+  <!--<![endif]-->
+  <link rel="stylesheet" href="/assets/stylesheets/site.css">
 
+  <!-- globals -->
   <script>
     var disqus_shortname = 'belyndacianci';
   </script>
 </head>
 <body>
 
-{% include contact_form.html %}
+<div class="header">
+  <div class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
+    <a class="pure-menu-heading" href="/">Belynda Cianci</a>
 
-<ahref="/">Belynda Cianci</a>
-
-<ul>
-  <li><a href="/clips">Clips</a></li>
-  <li><a href="/blog">Blog</a></li>
-  <li><a href="/#page-about">About</a></li>
-  <li><a href="/#page-services">Services</a></li>
-  <li><a href="#">Schedule a chat</a></li>
-</ul>
+    <ul>
+      <!-- <li class="pure-menu-selected"><a href="#">Home</a></li> -->
+      <li><a href="/clips">Clips</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="/#page-about">About</a></li>
+      <li><a href="/#page-services">Services</a></li>
+      <li><a href="#">Schedule a chat</a></li>
+    </ul>
+  </div>
+</div>
 
 {{ content }}
-
-&copy; {{ site.time | date: '%Y' }} Belynda Cianci
 
 <script src="/assets/javascripts/site.js"></script>
 

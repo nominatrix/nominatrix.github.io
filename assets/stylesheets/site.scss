@@ -1,2 +1,39 @@
 ---
 ---
+
+.home-menu {
+  &.pure-menu-open {
+    background-color: #f1ede4;
+  }
+
+  li a {
+    color: lighten(#a5473a, 20%);
+
+    &:hover,
+    &:focus {
+      color: #a5473a;
+    }
+  }
+
+  .pure-menu-heading {
+    color: #c2c0bc;
+  }
+}
+
+.splash-container {
+  background: url(/assets/images/bc-new.jpg) no-repeat center right;
+  background-size: cover;
+}
+
+.splash-head {
+  border-color: rgba(255, 255, 255, 0.2);
+  margin-bottom: 0;
+}
+
+.splash-subhead {
+  margin-top: 0;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 1em 1.6em;
+  font-weight: 100;
+  border-radius: 5px;
+}
