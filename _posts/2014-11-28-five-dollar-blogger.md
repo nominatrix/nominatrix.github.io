@@ -3,8 +3,6 @@ published: true
 comments: true
 ---
 
-## Freelance Blogging Services: The True Cost Of A “$5 Blogger”
-
 <center><a href="http://tinypic.com?ref=2n0o9di" target="_blank"><img src="http://i57.tinypic.com/2n0o9di.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center>
 
 The content industry has (for quite a while now) been going through a bit of a market adjustment, where the availability of an inexpensive writing force has driven down the perceived value for business writing services. Writers are seemingly a dime a dozen, and in turn, articles and marketing pieces become a dime a dozen. They <em>can</em> be, as has been amply demonstrated. They shouldn’t be.
