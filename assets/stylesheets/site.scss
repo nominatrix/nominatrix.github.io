@@ -1,17 +1,47 @@
 ---
 ---
 
+$bgcolor:     #f1ede4;
+$fgcolor:     #c2c0bc;
+$navcolor:    lighten(#a5473a, 20%);
+$bordercolor: rgba(255, 255, 255, 0.2);
+
 * {
   font-family: 'Raleway', sans-serif !important;
 }
 
+.blog-content img {
+  width: 100%;
+
+  &.post-avatar {
+    width: auto;
+  }
+}
+
+.sidebar {
+  background-color: $bgcolor;
+}
+
+.brand-title {
+  color: $fgcolor;
+}
+
+a.pure-button {
+  color: $navcolor;
+  border-color: $bordercolor;
+
+  &:hover {
+    border-color: $bordercolor;
+  }
+}
+
 .home-menu {
   &.pure-menu-open {
-    background-color: #f1ede4;
+    background-color: $bgcolor;
   }
 
   li a {
-    color: lighten(#a5473a, 20%);
+    color: $navcolor;
 
     &:hover,
     &:focus {
@@ -20,7 +50,7 @@
   }
 
   .pure-menu-heading {
-    color: #c2c0bc;
+    color: $fgcolor;
   }
 }
 
@@ -30,13 +60,13 @@
 }
 
 .splash-head {
-  border-color: rgba(255, 255, 255, 0.2);
+  border-color: $bordercolor;
   margin-bottom: 0;
 }
 
 .splash-subhead {
   margin-top: 0;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: $bordercolor;
   padding: 1em 1.6em;
   font-weight: 100;
   border-radius: 5px;

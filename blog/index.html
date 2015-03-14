@@ -3,20 +3,32 @@ layout: post
 title: Blog
 ---
 
+<h1 class="content-subhead">Recent Posts</h1>
+
 {% for post in paginator.posts %}
-  <h2>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </h2>
-  <p>
-    <span class="date">
-      {{ post.date | date: '%B %d, %Y' }}
-    </span>
-    |
-    <a href="{{ post.url }}#disqus_thread">Comments</a>
-  </p><!-- .author -->
-  <div class="content">
-    {{ post.content }}
-  </div><!-- .content -->
+  <section class="post">
+    <header class="post-header">
+      <img class="post-avatar" height="48" width="48" src="https://s.gravatar.com/avatar/ed42bbe330ff1dfc8b9eb6ceaefaefb4?s=48">
+
+      <h2 class="post-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2><!-- .post-title -->
+
+      <p class="post-meta">
+        <span class="date">
+          {{ post.date | date: '%B %d, %Y' }}
+        </span>
+        |
+        <a href="{{ post.url }}#disqus_thread">Comments</a>
+      </p><!-- .post-meta -->
+    </header><!-- .post-header -->
+
+    <div class="post-description">
+      <p>
+        {{ post.content }}
+      </p>
+    </div><!-- .post-description -->
+  </section><!-- .post -->
 {% endfor %}
 
 {% include disqus_count.html %}

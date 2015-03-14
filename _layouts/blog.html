@@ -1,0 +1,86 @@
+---
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="pTvBXt7sf82hBiD4gPHT-LpW7nkT9zCNQ8CuDtDlR9I" />
+  <meta name="p:domain_verify" content="b0f5a0a661e7b015d4cf20bb56e92ee2" />
+
+  <title>{{ page.title }} - Belynda Cianci - Boston Freelance Writer</title>
+
+  <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" />
+
+  <!-- styles -->
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+  <!--<![endif]-->
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="/assets/stylesheets/blog-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="/assets/stylesheets/blog.css">
+  <!--<![endif]-->
+  <link rel="stylesheet" href="/assets/stylesheets/site.css">
+
+  <!-- globals -->
+  <script>
+    var disqus_shortname = 'belyndacianci';
+  </script>
+</head>
+<body>
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+            <h1 class="brand-title">
+              Belynda Cianci
+            </h1>
+            <h2 class="brand-tagline"></h2>
+
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                      <a class="pure-button" href="/">About</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="pure-button" href="/blog">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="pure-button" href="/clips">Clips</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            <!-- A wrapper for all the blog posts -->
+            <div class="posts">
+              {{ content }}
+            </div>
+
+            <div class="footer">
+              &copy; {{ site.time | date: '%Y' }} Belynda Cianci
+                <!--
+                <div class="pure-menu pure-menu-horizontal">
+                    <ul>
+                        <li class="pure-menu-item"><a href="" class="pure-menu-link"></a></li>
+                    </ul>
+                </div>
+                -->
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include google_analytics.html %}
+
+</body>
+</html>
