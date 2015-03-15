@@ -27,30 +27,30 @@ Then we come to the “five dollar blogger.” A penny per word. “Wow! Okay! T
 
 What you get back later that week is one of the following:
 
-1. A grammatical horrorshow – Not spell-checked, strange syntax, just plain not great.
+  1. A grammatical horrorshow – Not spell-checked, strange syntax, just plain not great.
 
-2. Nonsense – The content doesn’t make sense on any level. “You are guaranteed to have make great smiling when you see our majestic baby food.”
+  2. Nonsense – The content doesn’t make sense on any level. “You are guaranteed to have make great smiling when you see our majestic baby food.”
 
-3. Keyword stuffing – They pick a keyword, but misspell it, then use it fifteen times. Google does not smile on this at all.
+  3. Keyword stuffing – They pick a keyword, but misspell it, then use it fifteen times. Google does not smile on this at all.
 
-4.Nothing. They totally blow you off. At least you haven’t paid them for it.
+  4. Nothing. They totally blow you off. At least you haven’t paid them for it.
 
 ## Now What?
 
 Assuming they came through on the deadline, you have twenty articles that are total nonsense, or just not great. You’ve just spent an hour or more reading them, and you’re completely frustrated. What do you do?
 
-1. Edit them yourself. This should only take from now until next week.
-2. Kick them back to the writer to be fixed—or more likely, be made what I call “different wrong.”
-3. Pay for them and have someone else edit them. Dole out $25 an hour for this person to read, re-write, optimize, and fix the articles.
+  1. Edit them yourself. This should only take from now until next week.
+  2. Kick them back to the writer to be fixed—or more likely, be made what I call “different wrong.”
+  3. Pay for them and have someone else edit them. Dole out $25 an hour for this person to read, re-write, optimize, and fix the articles.
 
 Let’s say your time is worth $50 an hour at a bare minimum. Time is an asset, so you have to count the hours spent on this process; they could have been devoted to other marketing efforts.
 
 Your $5 blog articles, (based on twenty articles) just cost you $200-$400.
 
-* $100 for the two hours finding a writer and reading their work.
-* $100 for payment to your five-dollar blogger.
-* $100 for another editor to fix the work, or your time spent fixing them.
-* $100 for TWO MORE HOURS finding and vetting a decent writer.
+  * $100 for the two hours finding a writer and reading their work.
+  * $100 for payment to your five-dollar blogger.
+  * $100 for another editor to fix the work, or your time spent fixing them.
+  * $100 for TWO MORE HOURS finding and vetting a decent writer.
 
 Ouch.
 
@@ -60,9 +60,9 @@ Freelance blogging services are a professional engagement. Hiring a writer is ju
 
 That same $400 you just spent in time and cash would get you:
 
-* Four to five professionally written, researched, and edited posts by a blogger who specializes in your industry or niche.
-* Appropriate keywords that are correctly optimized, with great, Google-friendly titles to hook readers.
-* A pitch of fresh ideas for next month and take a few minutes to discuss your business so they can promo special events you have coming up.
-* Promotion-ready, plug-and-play status updates to promo new content on your social media feeds.
+  * Four to five professionally written, researched, and edited posts by a blogger who specializes in your industry or niche.
+  * Appropriate keywords that are correctly optimized, with great, Google-friendly titles to hook readers.
+  * A pitch of fresh ideas for next month and take a few minutes to discuss your business so they can promo special events you have coming up.
+  * Promotion-ready, plug-and-play status updates to promo new content on your social media feeds.
 
 Still want that five-dollar blogger? If not, it’s time for a better blog marketing plan.
