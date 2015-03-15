@@ -14,11 +14,17 @@ $bordercolor: rgba(255, 255, 255, 0.2);
   font-family: FontAwesome !important;
 }
 
-.blog-content img {
-  width: 100%;
+.blog-content {
+  p {
+    line-height: 1.8em;
+  }
 
-  &.post-avatar {
-    width: auto;
+  img {
+    width: 100%;
+
+    &.post-avatar {
+      width: auto;
+    }
   }
 }
 
