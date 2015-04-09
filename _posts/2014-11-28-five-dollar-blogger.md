@@ -5,9 +5,9 @@ comments: true
 
 <center><a href="http://tinypic.com?ref=2n0o9di" target="_blank"><img src="http://i57.tinypic.com/2n0o9di.jpg" border="0" alt="Image and video hosting by TinyPic"></a></center>
 
-The content industry has (for quite a while now) been going through a bit of a market adjustment, where the availability of an inexpensive writing force has driven down the perceived value for business writing services. Writers are seemingly a dime a dozen, and in turn, articles and marketing pieces become a dime a dozen. They <em>can</em> be, as has been amply demonstrated. They shouldn’t be.
+The content industry has (for quite a while now) been going through a bit of a market adjustment, where the availability of an inexpensive writing force has driven down the perceived value for business writing services. Although this is [beginning to turn around](http://variety.com/2013/biz/news/epic-fail-the-rise-and-fall-of-demand-media-1200914646/), the perception persists. Writers are seemingly a dime a dozen, and in turn, articles and marketing pieces become a dime a dozen. They <em>can</em> be, as has been amply demonstrated. They shouldn’t be.
 
-But you might say: Why should you pay $50 or $100 per post, when you can get someone to write you twenty pieces for that amount?
+But you might say: Why should you pay $100 or more per post, when you can get someone to write you twenty pieces for that amount?
 
 I run up against this sentiment all the time; it wasn’t until I started editing articles and content written by a “five dollar blogger” that I could full explain the monetary value in hiring a trusted, native speaking professional who is knowledgeable in your niche. The lifecycle of a cheap blog article goes something like this:
 
@@ -21,7 +21,7 @@ BUT! They’re professionals. They seem to get your product.
 
 Another writer quotes you $10 a piece. They’re not offering any of the extras, but like you said—you can do that. They’re in the running.
 
-Then we come to the “five dollar blogger.” A penny per word. “Wow! Okay! That’s reasonable!” You probably believe, for this price, you can get a lot more content-- and that means better rankings. Something in you thinks this might be too good to be true (it is), but you charge ahead and place an order with them.
+Then we come to the “five dollar blogger.” A penny per word. “Wow! Okay! That’s reasonable!” You probably believe, for this price, you can get a lot more content-- and that means better rankings. _Something_ in you thinks this might be too good to be true (it is), but you charge ahead and place an order with them.
 
 ## The Results
 
@@ -60,7 +60,7 @@ Freelance blogging services are a professional engagement. Hiring a writer is ju
 
 That same $400 you just spent in time and cash would get you:
 
-  * Four to five professionally written, researched, and edited posts by a blogger who specializes in your industry or niche.
+  * Three to five professionally written, researched, and edited posts by a blogger who specializes in your industry or niche.
   * Appropriate keywords that are correctly optimized, with great, Google-friendly titles to hook readers.
   * A pitch of fresh ideas for next month and take a few minutes to discuss your business so they can promo special events you have coming up.
   * Promotion-ready, plug-and-play status updates to promo new content on your social media feeds.
