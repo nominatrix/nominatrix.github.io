@@ -22,7 +22,7 @@ Generalists are fine, but specialists reach the audience most interested in spec
 
 Don’t have a niche? Time to get at it. 
 
-**2. Don’t Publish Low-Hanging Fruit.** Plenty of sites feature those tedious “Five Great Tips” posts. Don’t be like that. Fluff posts are usually written for short money, and that means written in short time. You know how the law of “Good, Fast, Cheap” pans out in such cases.
+**2. Don’t Publish Low-Hanging Fruit.** Plenty of sites feature those tedious “Five Great Tips” posts. Don’t be like that. Fluff posts are usually [written for short money](http://belyndacianci.com/2014/11/28/five-dollar-blogger/), and that means written in short time. You know how the law of “Good, Fast, Cheap” pans out in such cases.
 
 Your readers don’t care about five awesome ways to use your Magic Eraser. They care about how the reserve is going to affect your interest rate, how the [surge in buyer confidence](http://www.zillow.com/blog/5-million-renters-plan-to-buy-171611/)is going to affect their chances of getting the house of their dreams. Feed them the information you bump into every day, either as an informative blog, a curated share, or a quick tip on Twitter. The more they read you, the more they trust you. 
 
@@ -30,7 +30,7 @@ Your readers don’t care about five awesome ways to use your Magic Eraser. They
 
 Real estate porn! 
 
-Pinterest’s valuation wasn’t built on pictures of brownies alone, guys.
+[Pinterest’s valuation](www.nytimes.com/2015/03/17/business/dealbook/pinterest-valuation-at-11-billion-after-new-round-of-fund-raising.html) wasn’t built on pictures of brownies alone, guys.
 
 Give the people what they want. Instead of JUST sticking up a link to your MLS page, snap a shot of a nice aspect of the house. Is their dining room staging pitch perfect? Maybe they have the PERFECT butler’s pantry or mudroom. Make it an example on Instagram, Pinterest and Houzz. Get people interested in the details. Locals will start to pay attention to your listings, and the rest of your audience will start to follow you for the eye candy and great advice. 
 
