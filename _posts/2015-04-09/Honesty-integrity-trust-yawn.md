@@ -2,12 +2,8 @@
 published: false
 ---
 
-## A New Post
+##Honesty, Integrity, and Trust? :::Yawn::: Give People The Goods On You
 
-
-
-**Honesty, Integrity, and Trust? :::Yawn::: Give People The Goods On You
-**
 Pretty much every real estate professional wants to you know that they’re an honest, decent person who won’t take advantage of you or torpedo your deal. Great. But you can’t just assure people you’re all about honesty integrity, and trust. 
 
 Remember the last guy who assured us, “I’m not a crook?” 
